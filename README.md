@@ -1,27 +1,9 @@
-# React + TypeScript + Vite
+# Animal Farm
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Demo
 
-Currently, two official plugins are available:
+<img width="1624" alt="image" src="https://github.com/plskx/animal-farm/assets/57343545/2560c3ec-b1c2-4333-9ca9-78c191e4d113">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1624" alt="image" src="https://github.com/plskx/animal-farm/assets/57343545/ae10ae48-3ddf-437a-ac93-aeb0dcfc40c5">
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+<img width="1624" alt="image" src="https://github.com/plskx/animal-farm/assets/57343545/b5ccf80f-da17-4b8e-8b33-4e1d1263bf07">
